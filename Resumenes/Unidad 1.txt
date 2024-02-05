@@ -1,0 +1,12 @@
+Sistema Binario
+El sistema binario es un lenguaje de computadora, que nos permite realizar todas aquellas acciones que nos ayudan a transmitirlas a un lenguaje maquina para que todas las acciones que realicemos y solicitmeos puedan ser ejecutadas y bien interpretadas, este lenguaje es muy escencial en distintas ramas de la tecnoloiga ya que nos da entender muchas de las soluciones que manejamos a nivel de software.
+
+la logica es una parte fundamental de como podemos interpretar y asi asimilar las solicitudes que nos permiten llevar una secuencia de solucion a los distintos programas o situaciones que afrontamos dia a dia. La logica es parte fundamental de la programacion ya que ella nos permite interactuar de una manera ordenada para los diferentes cambios en los programas.
+
+Alogritmos es una cracteristica basica y fundamental que nos permite entender como funciona o como deberiamos tener las bases de la programacion en cuanto al orden secuencial y de como funciona todo en nuestro entorno a traves de la interpretacion de los algoritmos.
+
+Programacion es el arte de poder traducir todo lo que esta en nuestro alrededor, ideas, mejoras, etc a un lenguaje de programacion y que se funcional en nuestro dia a dia y en la vida!. Mas cuando son tareas repetitivas.
+
+Todas para unas buenas bases desde mi punto de vista son importantes ya que llevamos una secuencia que va reforzando y cada vez mejorando el conceptos y practicas para poder realizar cualquier tipo de desarrollo
+
+Enla que mas me cosot fue en la de algoritmos, parece facil pero cada detalle cuenta para una buena solucion, no es bueno en esta parte "asumir".

@@ -1,0 +1,6 @@
+Conceptos de Programacion
+Aunque siendo sincero ya habia manejado algunas bases de la programacion varia en cada lenguaje aunque se mantiene la misma logica. Esto me sucede ya que es mi primera vez utilizando el lenguaje de programacion JavaScript. Es bastante similar pero su sintaxis para mi es nuevo y eso es lo que me dificulta. Es un lenguaje muy versatil ya que solo necesitamos algun tipo de editor de texto para poder realizar alguna integracion de esta en la parte web.
+
+Los diferentes tipos de datos que usamos son muy faciles de definir ya que no es como otro lenguaje que debemos de usar explicitamente un tipo de dato especifico por el espacio en memoria que se reserva en cada variable. Las estructuras de control condicional siento que son bastnate fundamentales en la prorgamacion basica ya que a traves de estas decisiones se logra tener un mejor diagrama o una mejor programacion, al igual que las estructuras de control de ciclos o bucles.
+
+Me hace falta practicar esta parte de bucles pero espero dominarla por completo.

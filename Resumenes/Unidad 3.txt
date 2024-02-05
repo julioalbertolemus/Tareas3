@@ -1,0 +1,4 @@
+GIT y GITHUB
+
+Es una caracteristica principal y fundamental que observo que usan los desarrolladores ya que facilmente se puede administrrar los diferentes cambios de los archivos y es bastante practico pero si nunca los habia usado se mira facil pero como todo es cuestion de cosumbre y practica para poder familiarizarse con esta herrameinta. La parte de usarlo a nivel de linea de comandos es un poco diferente a la costumbre que tengo de usar o de trabajar todo a nivel de GUI.
+Con esta herramienta de control de versiones podemos practicamente, actualizar, modificar, eliminar y gestionar cualquier cambio en conjunto con otras personas muy interesante la herrameienta.
